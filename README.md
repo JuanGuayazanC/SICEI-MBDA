@@ -170,11 +170,11 @@ git clone https://github.com/JuanSebastianGuayazanClavijoECI/SICEI-MBDA.git
 
 ## 📊 Estadísticas del Repositorio
 
-![Lenguaje principal](https://img.shields.io/github/languages/top/JSGC-ECI/SICEI-MBDA?style=flat-square)
-![Tamaño del repositorio](https://img.shields.io/github/repo-size/JSGC-ECI/SICEI-MBDA?style=flat-square)
-![Stars](https://img.shields.io/github/stars/JSGC-ECI/SICEI-MBDA?style=flat-square)
-![Forks](https://img.shields.io/github/forks/JSGC-ECI/SICEI-MBDA?style=flat-square)
-![Issues abiertas](https://img.shields.io/github/issues/JSGC-ECI/SICEI-MBDA?style=flat-square)
+![Lenguaje principal](https://img.shields.io/github/languages/top/JuanGuayazanC/SICEI-MBDA?style=flat-square)
+![Tamaño del repositorio](https://img.shields.io/github/repo-size/JuanGuayazanC/SICEI-MBDA?style=flat-square)
+![Stars](https://img.shields.io/github/stars/JuanGuayazanC/SICEI-MBDA?style=flat-square)
+![Forks](https://img.shields.io/github/forks/JuanGuayazanC/SICEI-MBDA?style=flat-square)
+![Issues abiertas](https://img.shields.io/github/issues/JuanGuayazanC/SICEI-MBDA?style=flat-square)
 
 ---
 
