@@ -47,6 +47,8 @@ Escuela Colombiana de Ingeniería Julio Garavito
 
 ## ⚙️ Tecnologías
 
+![SQL](https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square)
+
 - Lenguaje(s): `SQL`, `XML`
 - Herramientas: `Oracle SQL Developer`, `Astah`
 - Dependencias: Ninguna externa
